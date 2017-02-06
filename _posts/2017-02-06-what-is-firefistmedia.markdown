@@ -8,6 +8,6 @@ Fire Fist Media is a newly established digital agency with a focus on search eng
 
 We have been working with SEO for a long time now and have developed many great techniques for getting businesses found on Google.
 
-You can find our actualy website at <http://firefistmedia.com>.
+You can find our website at <http://firefistmedia.com>.
 
 Happy Browsing!
