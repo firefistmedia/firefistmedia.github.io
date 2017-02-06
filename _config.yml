@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Fire Fist Media
+email: contact@firefistmedia.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to firefistmedia blogging on jekyll with github pages.
+  Fire Fist Media is a digital agency specialising in search engine optimisation.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://firefistmedia.github.io/" # the base hostname & protocol for your site
+twitter_username: firefistmedia
+github_username:  firefistmedia
 
 # Build settings
 markdown: kramdown
